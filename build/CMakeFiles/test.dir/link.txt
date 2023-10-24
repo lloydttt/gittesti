@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/test.dir/src/main.cpp.o CMakeFiles/test.dir/src/t.cpp.o -o /home/lloyd/文档/gittesti/bin/test 

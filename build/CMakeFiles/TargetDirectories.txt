@@ -1,0 +1,3 @@
+/home/lloyd/文档/gittesti/build/CMakeFiles/test.dir
+/home/lloyd/文档/gittesti/build/CMakeFiles/edit_cache.dir
+/home/lloyd/文档/gittesti/build/CMakeFiles/rebuild_cache.dir

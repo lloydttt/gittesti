@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/lloyd/文档/gittesti/build",
+  "command": "/usr/bin/g++  -I/home/lloyd/文档/gittesti/include -g -o CMakeFiles/test.dir/src/main.cpp.o -c /home/lloyd/文档/gittesti/src/main.cpp",
+  "file": "/home/lloyd/文档/gittesti/src/main.cpp",
+  "output": "CMakeFiles/test.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/lloyd/文档/gittesti/build",
+  "command": "/usr/bin/g++  -I/home/lloyd/文档/gittesti/include -g -o CMakeFiles/test.dir/src/t.cpp.o -c /home/lloyd/文档/gittesti/src/t.cpp",
+  "file": "/home/lloyd/文档/gittesti/src/t.cpp",
+  "output": "CMakeFiles/test.dir/src/t.cpp.o"
+}
+]
